@@ -13,3 +13,6 @@
 # https://developer.mozilla.org/en-US/docs/Web/HTML
 # https://devdocs.io/html/
 # https://www.w3schools.com/TAGS/default.asp
+## logical values and properties
+# [Arabic Version – Flexbox Final](https://css-tricks.com/css-logical-properties-and-values/)
+
